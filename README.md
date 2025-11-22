@@ -1,2 +1,2 @@
-# EventDrivenProgramming
-Administrative Sports Equipment Borrowing and Recording System
+# Administrative Sports Equipment Borrowing and Recording System
+### EventDrivenProgramming
